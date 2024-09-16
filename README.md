@@ -1,6 +1,7 @@
 # Artificial Intelligence and Machine Learning
 * Udemy's course about Artificial Intelligence and Machine Learning.</br>
-* 26.5 hours of classes.
+* 26.5 hours of classes.</br>
+* [Course Link.](https://www.udemy.com/course/inteligencia-artificial-e-machine-learning/?couponCode=ST11MT91624A)
 ## Tools
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Libs
