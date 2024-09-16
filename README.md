@@ -11,7 +11,6 @@
 * ### Section 2: Machine Learning Fundamentals
   Introduction to Machine Learning and general concepts.
 * ### Section 3: Study of algorithms
-  Study and pratical exemples to use models built with different ML algothims. Some of them:
   * Naive Bayes;
   * Random Forest;
   * KNN;
