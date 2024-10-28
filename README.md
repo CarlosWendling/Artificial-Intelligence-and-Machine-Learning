@@ -12,17 +12,22 @@
 * ### Section 2: Machine Learning Fundamentals
   Introduction to Machine Learning and general concepts.
 * ### Section 3: Study of algorithms
-  * Naive Bayes;
-  * Random Forest;
-  * KNN;
-  * Apriori;
+  * Naive Bayes
+  * Random Forest
+  * KNN
+  * Apriori
 * ### Section 4: Advanced Machine Learning topics
-  * Attribute's Engineering;
-  * Clustering;
-  * Multi Label Problems;
-  * AutoML and Tunning;
+  * Attribute's Engineering
+  * Clustering
+  * Multi Label Problems
+  * AutoML and Tunning
 * ## Section 5: Neural Networks, Deep Learning and Computer Vision
   * Percepton
   * CNN
   * LSTM
   * Autoencoder
+* ## Section 6: XAI
+  * White-Box & Black-Box
+  * Local and Global Interpretation
+  * Agnostic and Specif Interpretation
+  * Lime, Eli5, Shap, Interpret
