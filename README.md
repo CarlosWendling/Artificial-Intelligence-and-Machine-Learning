@@ -21,12 +21,12 @@
   * Clustering
   * Multi Label Problems
   * AutoML and Tunning
-* ## Section 5: Neural Networks, Deep Learning and Computer Vision
+* ### Section 5: Neural Networks, Deep Learning and Computer Vision
   * Percepton
   * CNN
   * LSTM
   * Autoencoder
-* ## Section 6: XAI
+* ### Section 6: XAI
   * White-Box & Black-Box
   * Local and Global Interpretation
   * Agnostic and Specif Interpretation
